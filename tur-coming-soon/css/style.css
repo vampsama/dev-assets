@@ -35,10 +35,3 @@ body {
 .wrapper div {
   margin: 1.5625rem;
 }
-.wrapper .new-site-coming-soon {
-  font-size: 1rem;
-}
-.wrapper .logo img {
-  width: 201px;
-  height: auto;
-}
